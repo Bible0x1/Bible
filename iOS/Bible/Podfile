@@ -1,0 +1,22 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '13.0'
+
+target 'Bible' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for Bible
+  pod 'AFNetworking', '~> 3.0' # 网络库
+  pod 'WCDB.objc'               # 数据库框架
+  pod 'Masonry'                # 布局框架
+  pod 'LookinServer', :configurations => ['Debug'] # 布局排查工具
+  target 'BibleTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'BibleUITests' do
+    # Pods for testing
+  end
+
+end
