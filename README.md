@@ -7,6 +7,7 @@
 1. 基本的经文导航，阅读，搜索功能
 2. 个人的经文笔记，导入导出，分享
 3. 感想Feed，内部发文
+4. 添加博客、sptify链接🔗
 
 
 ## Details
@@ -23,11 +24,11 @@
 
 <img src="./assets/database_index.png" style="width:60%; margin:10px; box-shadow: 0px 0px 15px gray; border-radius: 25px;"></img>
 <img src="./assets/database_content.png" style="width:60%; margin:10px; box-shadow: 0px 0px 15px gray; border-radius: 25px;"></img>
-## Milestone
+
 
 ## Developer Guide
 
 暂时没有太多规范，一般小驼峰编码就行，尽可能解耦，充分注释，命名明确，定义类保持单一的指责
 
-
+## Milestone
 * 2023/5/13: init project
