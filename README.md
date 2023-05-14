@@ -38,3 +38,4 @@
 1. 一个开源Android圣经阅读App https://andbible.github.io/, [github](https://github.com/AndBible/and-bible)
 2. A collection of freely licensed translations of biblical text in OSIS format. [github](https://github.com/gratis-bible/bible)
 3. A RESTful API for Bible [github](https://github.com/omarciovsena/abibliadigital)
+4. 一个类似的iOS-App [Bible-Assistant](https://github.com/nixzhu/Bible-Assistant)
