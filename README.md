@@ -2,16 +2,16 @@
 
 一个圣经App, Objc 编码
 
-了解项目，可以看[START](./START.md)
+了解项目，可以看 [START](./START.md)
 
-了解iOS开发，可以看[LEARN_IOS](./LEARN_IOS.md)
+了解iOS开发，可以看 [LEARN_IOS](./LEARN_IOS.md)
 
 ## Plan
 
 1. 基本的经文导航，阅读，搜索功能
 2. 个人的经文笔记，导入导出，分享
 3. 感想Feed，内部发文
-4. 添加博客、sptify链接🔗
+4. 添加博客、spotify链接🔗
 
 
 ## Details

@@ -53,7 +53,7 @@
 > 
 - Block定义、使用、传递: [Syntax](http://fuckingblocksyntax.com/)
 - Block内存管理: 保留环, __block
-- Block的实现(可选): [讲解视频](https://tech.bytedance.net/videos/6844025982307794951),《Objective-C高级编程》第2章
+- Block的实现(可选):《Objective-C高级编程》第2章
 
 官方文档:
 
