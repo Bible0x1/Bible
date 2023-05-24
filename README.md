@@ -1,5 +1,7 @@
 # Bible iOS Project
 
+[![Deploy Jekyll with GitHub Pages](https://github.com/Bible0x1/Bible/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/Bible0x1/Bible/actions/workflows/jekyll-gh-pages.yml)
+
 一个圣经App, Objc 编码
 
 了解项目，可以看 [START](./START.md)
