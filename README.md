@@ -26,8 +26,8 @@
 1. 索引表
 2. 内容表
 
-<img src="./assets/database_index.png" style="width:60%; margin:10px; box-shadow: 0px 0px 15px gray; border-radius: 25px;"></img>
-<img src="./assets/database_content.png" style="width:60%; margin:10px; box-shadow: 0px 0px 15px gray; border-radius: 25px;"></img>
+<img src="./assets/database_index.png" style="width:60%; margin:10px; box-shadow: 0px 0px 15px gray; border-radius: 25px;">
+<img src="./assets/database_content.png" style="width:60%; margin:10px; box-shadow: 0px 0px 15px gray; border-radius: 25px;">
 
 
 ## Developer Guide
@@ -35,7 +35,7 @@
 暂时没有太多规范，一般小驼峰编码就行，尽可能解耦，充分注释，命名明确，定义类保持单一的指责
 
 ## Milestone
-* 2023/5/24: add START.md
+* 2023/5/24: add START.md LEARN_IOS.md
 * 2023/5/13: init project
 
 
