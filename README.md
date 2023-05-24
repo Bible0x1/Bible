@@ -2,7 +2,9 @@
 
 一个圣经App, Objc 编码
 
-了解项目，可以看[START](/START.md)
+了解项目，可以看[START](./START.md)
+
+了解iOS开发，可以看[LEARN_IOS](./LEARN_IOS.md)
 
 ## Plan
 
